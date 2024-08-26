@@ -1,6 +1,8 @@
 # hello-world
 This repository is for practicing the Github Flow.
 
+Tutorial Source: https://docs.github.com/en/get-started/start-your-journey/hello-world
+
 Since this repository is public. It's a bit shy for me to spread my ideas. Therefore, I decide to take notes about what I've learned so far:
 - Terms
     - Nouns
